@@ -1,3 +1,3 @@
 # Simple slider made with react
 
-https://idea2web.fr/reactApp/slider/
+<a href="https://idea2web.fr/reactApp/slider/" target="_blank">https://idea2web.fr/reactApp/slider/</a>
