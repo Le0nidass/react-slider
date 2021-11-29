@@ -5,3 +5,4 @@
 
 [Go to this page](https://idea2web.fr/reactApp/slider/?target=_blank)
 
+[https://idea2web.fr/reactApp/slider/](https://idea2web.fr/reactApp/slider/ "title" target="_blank")
